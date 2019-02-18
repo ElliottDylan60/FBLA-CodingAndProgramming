@@ -15,3 +15,6 @@ Launch this executable to use the program.
 To edit the code, you need to install the Visual Stuido 2017 IDE. The navigate
 to:FINALPROJECT\FINALPROJECT.sln
 Launch the sln file using Visual Studio.
+
+# Contacts
+Emails: elliottdylan60@gmail.com
